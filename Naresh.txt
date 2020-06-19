@@ -1,0 +1,15 @@
+-----------------|
+45 days          |
+10.20- 12.00 ist |
+-----------------
+Chef
+VSTS
+Jenkins
+-----------------
+Modules
+workspace
+backend
+-----------------
+
+Thought.Learning@gmail.com
+Qualitythought2019
