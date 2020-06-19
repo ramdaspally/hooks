@@ -1,0 +1,12 @@
+knife bootstrap 3.20.205.131 -U ubuntu -i ./chef.pem --sudo -N 'Ubuntuaws1'
+
+knife bootstrap 40.122.78.153 -U 
+
+
+
+ami-ami-0d1cd67c26f5fca19
+subnet id: subnet-0f5e95e22a34bdacf
+VPC:vpc-07754d8347a37e4ca
+SG :  	sg-0cc41a53d807bac51
+Pem: oregon.pem
+ ubuntu 18.04
